@@ -1,2 +1,0 @@
-# AdapterPattern
-Adapter pattern assignment 
